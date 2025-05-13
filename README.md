@@ -26,7 +26,8 @@ pip install -r requirements.txt
 python neko.py
 ```
 
+![image](https://github.com/user-attachments/assets/bdb527fd-4499-4c98-84bd-6eabd3309844)
 
-![image](https://github.com/user-attachments/assets/e995a683-4124-4f52-87ba-0d900ebcd66d)
-![image](https://github.com/user-attachments/assets/55ee5b7c-17f6-4188-9e5a-a32fb167f54e)
-![image](https://github.com/user-attachments/assets/8604cad8-6490-4f43-b105-4e33c35a5544)
+![image](https://github.com/user-attachments/assets/a7f06ed0-55c6-46f1-a08b-33f90041ab7c)
+
+![image](https://github.com/user-attachments/assets/3525fac1-677f-41ee-90a5-30fe8bad3c60)
